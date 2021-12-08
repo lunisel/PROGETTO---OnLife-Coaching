@@ -12,7 +12,7 @@ Progetto in collaborazione con il Life Coach Luca Russo, che mi ha commissionato
 
 ### LOGO
 
-![Image text](logo-md.png)
+<img src="logo-md.png" width="100%">
 
 ## Tecnologie
 
