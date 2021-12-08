@@ -2,11 +2,11 @@
 
 ## Indice
 
-1. [Informazioni Generali](#general-info)
-2. [Tecnologie](#technologies)
-3. [Installazione](#installation)
+1. [Informazioni Generali](#informazioni-generali)
+2. [Tecnologie](#tecnologie)
+3. [Installazione](#installazione)
 
-### General Info
+## Informazioni Generali
 
 Progetto in collaborazione con il Life Coach Luca Russo, che mi ha commissionato un sito semplice per rendere il suo lavoro più accessibile a un maggior numero di persone.
 
