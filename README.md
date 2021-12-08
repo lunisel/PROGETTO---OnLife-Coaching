@@ -3,10 +3,8 @@
 ## Indice
 
 1. [Informazioni Generali](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+2. [Tecnologie](#technologies)
+3. [Installazione](#installation)
 
 ### General Info
 
