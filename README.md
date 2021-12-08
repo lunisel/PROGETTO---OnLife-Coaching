@@ -8,8 +8,6 @@
 
 ### General Info
 
----
-
 Progetto in collaborazione con il Life Coach Luca Russo, che mi ha commissionato un sito semplice per rendere il suo lavoro più accessibile a un maggior numero di persone.
 
 ### LOGO
@@ -17,8 +15,6 @@ Progetto in collaborazione con il Life Coach Luca Russo, che mi ha commissionato
 ![Image text](logo-md.png)
 
 ## Tecnologie
-
----
 
 Questa è una lista di tecnologie usate nel progetto:
 
@@ -34,8 +30,6 @@ Questa è una lista di tecnologie usate nel progetto:
 - Express
 
 ## Installazione
-
----
 
 Il modo più semplice è visitare il link [Luca Russo - Life Coach](https://example.com)
 
